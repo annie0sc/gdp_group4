@@ -1,17 +1,14 @@
 # Health and Wellness App
 
-## Description:
+## Purpose:
 
-The purpose of this app is to make the life of the health enthusiast easy by simply 
+The main purpose of this app is to make the life of the health enthusiast easy by simply 
 registering to an online app. 
 
-Do you Sleep well ?
-Most of the people spend a great amount of time on social network and doesn't track their sleep activity.
+## Entity Relationship Diagram
 
-Wanna lose fat ?
 
-Every person expects to have a healthy lifestyle and change their daily tasks 
-Have 
+![](https://github.com/annie0sc/gdp_group4/blob/master/ERD_final.jpeg)
 
 
 
