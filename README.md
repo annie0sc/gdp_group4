@@ -57,6 +57,8 @@ User Stories / Tasks created in Jira :
 
 ![ERD](https://github.com/annie0sc/gdp_group4/blob/master/ERD_final.jpeg)
 
+This the ERD of the proposed app.
+h
 ## Sample data
 
 [Sample data in excel](https://github.com/annie0sc/gdp_group4/blob/master/SampleData.xlsx)
