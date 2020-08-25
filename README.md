@@ -33,9 +33,9 @@ Front end developer     - Alekhya Jaddu
 
 Database Engineer       - Vigneshwar Reddy
 
-## Link to Original RPF :
+## Link to Original RFP :
 
-[RPF](https://github.com/cbadami/rfp-health-and-wellness)
+[RFP](https://github.com/cbadami/rfp-health-and-wellness)
 
 ## Link to Published Site :
 
@@ -55,10 +55,10 @@ User Stories / Tasks created in Jira :
 
 ## Entity Relationship Diagram
 
-![ERD](https://github.com/annie0sc/gdp_group4/blob/master/ERD_final.jpeg)
+![](C:\Users\S538102\Desktop\Project\gdp_group4)
 
 This the ERD of the proposed app.
-h
+
 ## Sample data
 
 [Sample data in excel](https://github.com/annie0sc/gdp_group4/blob/master/SampleData.xlsx)
