@@ -105,7 +105,7 @@ The user will be redirected to this page when (s)he has selected the step count 
 
 ### Calorie Intake
 
-![Calorie Intake](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/6%20Calorie.PNG | width = 100)
+![Calorie Intake](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/6%20Calorie.PNG|width=100)
 
 This page tracks the daily calorie intake levels of the user.
 
