@@ -1,4 +1,4 @@
-# Health and Wellness App
+# Health and Wellness App (HAWA)
 
 ## Purpose :
 
