@@ -26,6 +26,8 @@ Database Engineer       - Vigneshwar Reddy
 
 ## Link to Published Site :
 
+[Website](https://annie0sc.github.io/gdp_group4/)
+
 ## Link to Repository :
 
 [Repo](https://github.com/annie0sc/gdp_group4)
