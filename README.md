@@ -75,43 +75,43 @@ This the ERD of the proposed app.
 
 ### Login
 
-![Login Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/1%20LOGIN.PNG)
+![Login Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/1%20LOGIN.PNG?raw=true)
 
 This is the first screen that appears when a user or an admin logins.
 
 ### Sign Up
 
-![Sign Up Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/2%20register.PNG)
+![Sign Up Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/2%20register.PNG?raw=true)
 
 The user will be redirected to this page when (s)he has not registered yet.
 
 ### Profile
 
-![Profile Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/3%20profile.PNG)
+![Profile Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/3%20profile.PNG?raw=true)
 
 The user can review and make changes to their profile as desired.
 
 ### Home
 
-![Home Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/4%20Home.PNG)
+![Home Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/4%20Home.PNG?raw=true)
 
 This page allows the user to track their daily step count, hydration level, sleep amount and calorie intake.
 
 ### Step Count
 
-![Step Count Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/5%20Step%20activity.PNG)
+![Step Count Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/5%20Step%20activity.PNG?raw=true)
 
 The user will be redirected to this page when (s)he has selected the step count option in the home page.
 
 ### Calorie Intake
 
-![Calorie Intake](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/6%20Calorie.PNG)
+![Calorie Intake](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/6%20Calorie.PNG?raw=true)
 
 This page tracks the daily calorie intake levels of the user.
 
 ### Challenges
 
-![Challenges Pages](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/7%20Challenges.PNG)
+![Challenges Pages](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/7%20Challenges.PNG?raw=true)
 
 The admin has rights to create new challenges which can be open to public and/or particular to a group of users. 
 
