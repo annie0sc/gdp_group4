@@ -10,6 +10,15 @@ Every person is always busy or tend to forget to maintain their calorie or water
 
 Using this app, the user can monitor their activity and understand how they can improve or manage daily activities. Every user can set a personal goal for each activity and see if they can reach it or not. They can accept challenges created by admins and also can create their own challenge among their friends or groups.
 
+As a Statista survey shows, 26 percent of 18- to 29-year-olds use apps to track nutrition regularly, while 23 percent in the same age category use them occasionally. Nutrition and diet apps help users track calories they consume and burn and control water balance. [Reference](https://www.statista.com/statistics/698919/us-adults-that-would-use-an-app-to-track-their-diet-by-age/)
+
+With nutrition apps, users can set goals they want to reach, such as losing or gaining weight. To let users monitor their eating habits, apps of this type should have a food logging feature.
+
+Motivating users is important for any type of fitness app. So we have friendly challenges which help users stay motivated too. This can be done by telling users how they can achieve goals, showing progress, sending push notifications etc.
+
+This app calculates the number of calories to consume, taking into account a user’s goals and fitness profile. For food logging, the app has a barcode scanner that helps log foods and their nutrition values by simply scanning a barcode and automatically pulling information.
+
+
 ## Roles
 
 Project Manager         - Sindhuja Valeti 
