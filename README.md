@@ -10,7 +10,19 @@ Every person is always busy or tend to forget to maintain their calorie or water
 
 Using this app, the user can monitor their activity and understand how they can improve or manage daily activities. Every user can set a personal goal for each activity and see if they can reach it or not. They can accept challenges created by admins and also can create their own challenge among their friends or groups.
 
+## Roles
 
+Project Manager         - Sindhuja Valeti 
+
+Team Lead               - Tarun Sarpanjeri
+
+Full Stack Developer    - Annie Samarpitha
+
+UI Developer            - Neelesh Saladi
+
+Front end developer     - Alekhya Jaddu
+
+Database Engineer       - Vigneshwar Reddy
 
 ## Link to Repository :
 
@@ -18,14 +30,33 @@ Using this app, the user can monitor their activity and understand how they can 
 
 ## Link to Jira Board :
 
+User Stories / Tasks created in Jira :
+
 [jira board](https://sindhuvaleti.atlassian.net/jira/software/projects/GDP1/boards/2)
 
 
 
 ## Entity Relationship Diagram
 
-
 ![](https://github.com/annie0sc/gdp_group4/blob/master/ERD_final.jpeg)
+
+## Sample data
+
+[Sample data in excel](https://github.com/annie0sc/gdp_group4/blob/master/SampleData.xlsx)
+
+## Cost Management
+
+[Cost estimate for the project](https://github.com/annie0sc/gdp_group4/blob/master/CostEstimate.xlsx)
+
+## Schedule
+
+[Schedule Management](https://github.com/annie0sc/gdp_group4/blob/master/Schedule%20Management.xlsx)
+
+## Interface Sketches :
+
+
+
+
 
 
 
