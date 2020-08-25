@@ -60,6 +60,30 @@ User Stories / Tasks created in Jira :
 
 ![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/1%20LOGIN.PNG)
 
+### Sign Up
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/2%20register.PNG)
+
+### Profile
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/3%20profile.PNG)
+
+### Home
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/4%20Home.PNG)
+
+### Step Count
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/5%20Step%20activity.PNG)
+
+### Calorie Intake
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/6%20Calorie.PNG)
+
+### Challenges
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/7%20Challenges.PNG)
+
 
 
 
