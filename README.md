@@ -55,7 +55,7 @@ User Stories / Tasks created in Jira :
 
 ## Entity Relationship Diagram
 
-![ERD](https://github.com/annie0sc/gdp_group4/blob/master/ERD_final.jpeg)
+![ERD](https://github.com/annie0sc/gdp_group4/blob/master/ERD.PNG?raw=true)
 
 This the ERD of the proposed app.
 
