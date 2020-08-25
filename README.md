@@ -73,32 +73,47 @@ User Stories / Tasks created in Jira :
 
 ### Login
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/1%20LOGIN.PNG)
+![Login Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/1%20LOGIN.PNG)
+
+This is the first screen that appears when a user or an admin logins.
 
 ### Sign Up
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/2%20register.PNG)
+![Sign Up Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/2%20register.PNG)
+
+The user will be redirected to this page when (s)he has not registered yet.
 
 ### Profile
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/3%20profile.PNG)
+![Profile Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/3%20profile.PNG)
+
+The user can review and make changes to their profile as desired.
 
 ### Home
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/4%20Home.PNG)
+![Home Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/4%20Home.PNG)
+
+This page allows the user to track their daily step count, hydration level, sleep amount and calorie intake.
 
 ### Step Count
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/5%20Step%20activity.PNG)
+![Step Count Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/5%20Step%20activity.PNG)
+
+The user will be redirected to this page when (s)he has selected the step count option in the home page.
 
 ### Calorie Intake
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/6%20Calorie.PNG)
+![Calorie Intake](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/6%20Calorie.PNG)
+
+This page tracks the daily calorie intake levels of the user.
 
 ### Challenges
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/7%20Challenges.PNG)
+![Challenges Pages](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/7%20Challenges.PNG)
 
+The admin has rights to create new challenges which can be open to public and/or particular to a group of users. 
+
+Each user can create new challenges which has the options to take it individually or include friends or keep it open to public.
 
 
 
