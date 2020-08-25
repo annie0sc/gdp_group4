@@ -24,6 +24,8 @@ Front end developer     - Alekhya Jaddu
 
 Database Engineer       - Vigneshwar Reddy
 
+## Link to Published Site :
+
 ## Link to Repository :
 
 [Repo](https://github.com/annie0sc/gdp_group4)
@@ -53,6 +55,10 @@ User Stories / Tasks created in Jira :
 [Schedule Management](https://github.com/annie0sc/gdp_group4/blob/master/Schedule%20Management.xlsx)
 
 ## Interface Sketches :
+
+### Login
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/1%20LOGIN.PNG)
 
 
 
