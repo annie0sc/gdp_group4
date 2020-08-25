@@ -12,7 +12,7 @@ Using this app, the user can monitor their activity and understand how they can 
 
 As a Statista survey shows, 26 percent of 18- to 29-year-olds use apps to track nutrition regularly, while 23 percent in the same age category use them occasionally. Nutrition and diet apps help users track calories they consume and burn and control water balance. [Reference](https://www.statista.com/statistics/698919/us-adults-that-would-use-an-app-to-track-their-diet-by-age/)
 
-With nutrition apps, users can set goals they want to reach, such as losing or gaining weight. To let users monitor their eating habits, apps of this type should have a food logging feature.
+With this app, users can set goals they want to reach, such as losing or gaining weight. To let users monitor their eating habits, apps of this type should have a food logging feature.
 
 Motivating users is important for any type of fitness app. So we have friendly challenges which help users stay motivated too. This can be done by telling users how they can achieve goals, showing progress, sending push notifications etc.
 
