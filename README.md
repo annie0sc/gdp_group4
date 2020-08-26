@@ -76,7 +76,7 @@ This the ERD of the proposed app.
 
 ## Sample data
 
-![sample_data]()
+![sample_data](https://github.com/annie0sc/gdp_group4/blob/master/Sample_Data.PNG)
 
 [Sample data in excel](https://github.com/annie0sc/gdp_group4/blob/master/SampleData.xlsx)
 
