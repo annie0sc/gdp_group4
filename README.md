@@ -34,17 +34,17 @@ This app calculates the number of calories to consume, taking into account a use
 ## Mentor
 
 ##### This project is guided by:
-Dr. Charles Badami
-Northwest Missouri State University
-44-691 Graduate Directed Project
-Fall 2020
+* Dr. Charles Badami
+* Northwest Missouri State University
+* 44-691 Graduate Directed Project
+* Fall 2020
 
 ## Client
 
 ##### We are developing this project for our client:
 
-Dr. Rhonda Beemer
-Northwest Missouri State University
+* Dr. Rhonda Beemer
+* Northwest Missouri State University
 
 ## Link to original RPF: 
 
