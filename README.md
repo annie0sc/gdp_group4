@@ -65,9 +65,13 @@ This the ERD of the proposed app.
 
 ## Cost Management
 
+![Cost_Estimate](https://github.com/annie0sc/gdp_group4/blob/master/Cost_Estimate.PNG)
+
 [Cost estimate for the project](https://github.com/annie0sc/gdp_group4/blob/master/CostEstimate.xlsx)
 
 ## Schedule
+
+![Schedule_Management](https://github.com/annie0sc/gdp_group4/blob/master/Schedule_Management.PNG)
 
 [Schedule Management](https://github.com/annie0sc/gdp_group4/blob/master/Schedule%20Management.xlsx)
 
