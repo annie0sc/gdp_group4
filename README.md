@@ -19,19 +19,16 @@ Motivating users is important for any type of fitness app. So we have friendly c
 This app calculates the number of calories to consume, taking into account a user’s goals and fitness profile. For food logging, the app has a barcode scanner that helps log foods and their nutrition values by simply scanning a barcode and automatically pulling information.
 
 
-## Roles
+## Developer Roles
 
-Project Manager         - Sindhuja Valeti 
-
-Team Lead               - Tarun Sarpanjeri
-
-Full Stack Developer    - Annie Samarpitha
-
-UI Developer            - Neelesh Saladi
-
-Front end developer     - Alekhya Jaddu
-
-Database Engineer       - Vigneshwar Reddy
+| Group Members    | Roles                | Contact Information    |
+|------------------|----------------------|------------------------|
+| Sindhuja Valeti  | Project Manager      | s538102@nwmissouri.edu |
+| Tarun Sarpanjeri | Team Lead            | s537916@nwmissouri.edu |
+| Annie Chandolu   | Full Stack Developer | s538306@nwmissouri.edu |
+| Neelesh Saladi   | UI Developer         | s538300@nwmissouri.edu |
+| Alekhya Jaddu    | Front-End Developer  | s538343@nwmissouri.edu |
+| Vigneshwar Reddy | Database Engineer    | s538106@nwmissouri.edu |
 
 ## Link to Original RFP :
 
@@ -65,9 +62,13 @@ This the ERD of the proposed app.
 
 ## Cost Management
 
+![Cost_Estimate](https://github.com/annie0sc/gdp_group4/blob/master/Cost_Estimate.PNG)
+
 [Cost estimate for the project](https://github.com/annie0sc/gdp_group4/blob/master/CostEstimate.xlsx)
 
 ## Schedule
+
+![Schedule_Management](https://github.com/annie0sc/gdp_group4/blob/master/Schedule_Management.PNG)
 
 [Schedule Management](https://github.com/annie0sc/gdp_group4/blob/master/Schedule%20Management.xlsx)
 
