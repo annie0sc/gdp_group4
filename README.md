@@ -21,17 +21,15 @@ This app calculates the number of calories to consume, taking into account a use
 
 ## Roles
 
-Project Manager         - Sindhuja Valeti 
+|---|---|---|
+| Sindhuja Valeti | Project Manager  | s538102@nwmissouri.edu  |
+| Tarun Sarpanjeri  | Team Lead  | s537916@nwmissouri.edu  |
+| Annie Chandolu  | Full Stack Developer | s538306@nwmissouri.edu  |
+| Neelesh Saladi   | UI Developer  | s538300@nwmissouri.edu  |
+| Alekhya Jaddu   | Front end developer  | s538343@nwmissouri.edu  |
+| Vigneshwar Reddy  | Database Engineer  | s538106@nwmissouri.edu  |
+|---|---|---|
 
-Team Lead               - Tarun Sarpanjeri
-
-Full Stack Developer    - Annie Samarpitha
-
-UI Developer            - Neelesh Saladi
-
-Front end developer     - Alekhya Jaddu
-
-Database Engineer       - Vigneshwar Reddy
 
 ## Link to Original RFP :
 
