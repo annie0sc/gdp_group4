@@ -19,17 +19,16 @@ Motivating users is important for any type of fitness app. So we have friendly c
 This app calculates the number of calories to consume, taking into account a user’s goals and fitness profile. For food logging, the app has a barcode scanner that helps log foods and their nutrition values by simply scanning a barcode and automatically pulling information.
 
 
-## Roles
+## Developer Roles
 
-|---|---|---|
-| Sindhuja Valeti | Project Manager  | s538102@nwmissouri.edu  |
-| Tarun Sarpanjeri  | Team Lead  | s537916@nwmissouri.edu  |
-| Annie Chandolu  | Full Stack Developer | s538306@nwmissouri.edu  |
-| Neelesh Saladi   | UI Developer  | s538300@nwmissouri.edu  |
-| Alekhya Jaddu   | Front end developer  | s538343@nwmissouri.edu  |
-| Vigneshwar Reddy  | Database Engineer  | s538106@nwmissouri.edu  |
-|---|---|---|
-
+| Group Members    | Roles                | Contact Information    |
+|------------------|----------------------|------------------------|
+| Sindhuja Valeti  | Project Manager      | s538102@nwmissouri.edu |
+| Tarun Sarpanjeri | Team Lead            | s537916@nwmissouri.edu |
+| Annie Chandolu   | Full Stack Developer | s538306@nwmissouri.edu |
+| Neelesh Saladi   | UI Developer         | s538300@nwmissouri.edu |
+| Alekhya Jaddu    | Front-End Developer  | s538343@nwmissouri.edu |
+| Vigneshwar Reddy | Database Engineer    | s538106@nwmissouri.edu |
 
 ## Link to Original RFP :
 
