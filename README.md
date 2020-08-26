@@ -44,10 +44,12 @@ This app calculates the number of calories to consume, taking into account a use
 
 ## Link to Jira Board :
 
-User Stories / Tasks created in Jira :
+User Stories / Tasks created in Jira:
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Jira_Sprint1.PNG)
+
 
 [jira board](https://sindhuvaleti.atlassian.net/jira/software/projects/GDP1/boards/2)
-
 
 
 ## Entity Relationship Diagram
