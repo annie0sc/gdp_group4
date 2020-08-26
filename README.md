@@ -30,7 +30,23 @@ This app calculates the number of calories to consume, taking into account a use
 | Alekhya Jaddu    | Front-End Developer  | s538343@nwmissouri.edu |
 | Vigneshwar Reddy | Database Engineer    | s538106@nwmissouri.edu |
 
-## Link to Original RFP :
+
+## Mentor
+
+##### This project is guided by:
+Dr. Charles Badami
+Northwest Missouri State University
+44-691 Graduate Directed Project
+Fall 2020
+
+## Client
+
+##### We are developing this project for our client:
+
+Dr. Rhonda Beemer
+Northwest Missouri State University
+
+## Link to original RPF: 
 
 [RFP](https://github.com/cbadami/rfp-health-and-wellness)
 
@@ -46,7 +62,7 @@ This app calculates the number of calories to consume, taking into account a use
 
 User Stories / Tasks created in Jira:
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Jira_Sprint1.PNG)
+![jira_board](https://github.com/annie0sc/gdp_group4/blob/master/Jira_Sprint1.PNG)
 
 
 [jira board](https://sindhuvaleti.atlassian.net/jira/software/projects/GDP1/boards/2)
