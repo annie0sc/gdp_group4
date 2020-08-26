@@ -76,6 +76,8 @@ This the ERD of the proposed app.
 
 ## Sample data
 
+![sample_data]()
+
 [Sample data in excel](https://github.com/annie0sc/gdp_group4/blob/master/SampleData.xlsx)
 
 ## Cost Management
