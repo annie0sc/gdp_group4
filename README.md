@@ -61,6 +61,54 @@ User Stories / Tasks created in Jira:
 
 [jira board](https://sindhuvaleti.atlassian.net/jira/software/projects/GDP1/boards/2)
 
+## User Stories / Epics / Tasks
+
+Sprint 1: LOGIN PAGE
+
+Story: As a user, I want to create an account in the application by signing up.
+Story: As a user, I want to login the application to monitor my activities.
+Story: As a user, I want to reset the password for my account.
+
+Sprint 2: PROFILE PAGE
+
+Story: As a user, I want to update my personal details such as height, weight, age, gender.
+Story: As a user, I want to view my followers list who can view my activities.
+Story: As a user, I want to monitor the summary of my daily activities.
+
+Sprint 3: EPIC - HOME PAGE
+
+This epic story consists of subtasks of the home page in user’s perspective.
+
+Story: As a user, I want to view all the activities at one place so that, I get a clear picture of my daily activities.
+Story: As a user, I want to enter data manually, so that I can update the home page with new data of my today’s activities.
+Story: As a user, I want to see if I have a healthy sleep pattern or not.
+Story: As a user, I want to challenge my friends to beat my step count.
+Story: As a user, I want to form group with different users so that we can have challenges among groups.
+Story: As a user, I want to create a challenge and motivate my friends.
+Story: As a user, I want to add friends so that I can compete with them.
+Story: As a user, I want to concentrate on my daily calorie in-take.
+Story: As a user, I want to stay hydrated by consuming the ideal amount of water.
+
+SUBTASK:
+
+Step count
+
+Story: As a user, I want to set personal goal and motivate myself to reach it on a daily basis.
+Story: As a user, I want to update my step count to reach my personal goal.
+Story: As a user, I want to view my past step count so that I can balance the activity.
+
+Calorie in-take
+
+Story: As a user, I want to monitor my daily calorie in-take.
+Story: As a user, I want to set personal goal and update my calorie in-take each time to reach it.
+Story: As a user, I want to keep track of my past calorie in-take to maintain balanced diet.
+Story: As a user, I want to update the amount of fruits and vegetable servings.
+
+Sprint 4: CHALLENGES
+
+Story: As a user, I want to view the challenges which I joined.
+Story: As a user, I want to accept or deny the pending challenges.
+
 ## Entity Relationship Diagram :
 
 ![ERD](https://github.com/annie0sc/gdp_group4/blob/master/ERD.PNG?raw=true)
@@ -73,7 +121,7 @@ This the ERD of the proposed app.
 
 ![user_data](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/1.PNG?raw=true)
 
-This is the sample data for user input which stores user name as user_id, email address, full name, age, weight, height and passwords. 
+This is the sample data for user input which stores user name as user_id, email address, full name, age, weight, height and passwords.
 
 ### Admin Information
 
