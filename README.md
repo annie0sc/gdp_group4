@@ -69,11 +69,25 @@ This the ERD of the proposed app.
 
 ## Sample data :
 
-![sample_data](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/1.PNG?raw=true)
+### User data
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture2.PNG?raw=true)
+![user_data](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/1.PNG?raw=true)
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture3.PNG?raw=true)
+This is the sample data for user input which stores user name as user_id, email address, full name, age, weight, height and passwords. 
+
+### Admin Information
+
+![admin_info](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture2.PNG?raw=true)
+
+This is the database for admins which stores their unique admin_id, full name, designation and password.
+
+### Challenges
+
+![challenges](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture3.PNG?raw=true)
+
+The details of the challenges are stored here. It records the name, activity type, date created, date completed, number of people joining and the winner of the challenge. Additionally, the ID of the person who has created the challenge will be stored with the admin ID who is managing that particular challenge.
+
+
 
 ![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture4.PNG?raw=true)
 
