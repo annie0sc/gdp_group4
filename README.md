@@ -69,7 +69,21 @@ This the ERD of the proposed app.
 
 ## Sample data :
 
-![sample_data](https://github.com/annie0sc/gdp_group4/blob/master/Sample_Data.PNG?raw=true)
+![sample_data](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/1.PNG?raw=true)
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture2.PNG?raw=true)
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture3.PNG?raw=true)
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture4.PNG?raw=true)
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture5.PNG?raw=true)
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture6.PNG?raw=true)
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture7.PNG?raw=true)
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture8.PNG?raw=true)
 
 [Sample data in excel](https://github.com/annie0sc/gdp_group4/blob/master/SampleData.xlsx)
 
