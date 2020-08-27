@@ -63,19 +63,19 @@ User Stories / Tasks created in Jira:
 
 ## User Stories / Epics / Tasks
 
-Sprint 1: LOGIN PAGE
+### Sprint 1: LOGIN PAGE
 
 Story: As a user, I want to create an account in the application by signing up.
 Story: As a user, I want to login the application to monitor my activities.
 Story: As a user, I want to reset the password for my account.
 
-Sprint 2: PROFILE PAGE
+### Sprint 2: PROFILE PAGE
 
 Story: As a user, I want to update my personal details such as height, weight, age, gender.
 Story: As a user, I want to view my followers list who can view my activities.
 Story: As a user, I want to monitor the summary of my daily activities.
 
-Sprint 3: EPIC - HOME PAGE
+### Sprint 3: EPIC - HOME PAGE
 
 This epic story consists of subtasks of the home page in user’s perspective.
 
@@ -89,22 +89,22 @@ Story: As a user, I want to add friends so that I can compete with them.
 Story: As a user, I want to concentrate on my daily calorie in-take.
 Story: As a user, I want to stay hydrated by consuming the ideal amount of water.
 
-SUBTASK:
+### SUBTASK:
 
-Step count
+#### Step count
 
 Story: As a user, I want to set personal goal and motivate myself to reach it on a daily basis.
 Story: As a user, I want to update my step count to reach my personal goal.
 Story: As a user, I want to view my past step count so that I can balance the activity.
 
-Calorie in-take
+#### Calorie in-take
 
 Story: As a user, I want to monitor my daily calorie in-take.
 Story: As a user, I want to set personal goal and update my calorie in-take each time to reach it.
 Story: As a user, I want to keep track of my past calorie in-take to maintain balanced diet.
 Story: As a user, I want to update the amount of fruits and vegetable servings.
 
-Sprint 4: CHALLENGES
+### Sprint 4: CHALLENGES
 
 Story: As a user, I want to view the challenges which I joined.
 Story: As a user, I want to accept or deny the pending challenges.
