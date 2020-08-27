@@ -87,31 +87,49 @@ This is the database for admins which stores their unique admin_id, full name, d
 
 The details of the challenges are stored here. It records the name, activity type, date created, date completed, number of people joining and the winner of the challenge. Additionally, the ID of the person who has created the challenge will be stored with the admin ID who is managing that particular challenge.
 
+### Home
 
+![home](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture4.PNG?raw=true)
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture4.PNG?raw=true)
+This is place that displays all the activities offered by the app; step count, sleep levels, hydration levels and calorie intake.
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture5.PNG?raw=true)
+### Steps
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture6.PNG?raw=true)
+![step](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture5.PNG?raw=true)
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture7.PNG?raw=true)
+This is where the total step count is stored with it's calculated distance and daily step count goal.
 
-![](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture8.PNG?raw=true)
+### Sleep
 
-[Sample data in excel](https://github.com/annie0sc/gdp_group4/blob/master/SampleData.xlsx)
+![sleep](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture6.PNG?raw=true)
+
+The sleep levels are gathered in this place. It keeps track of the user's daily hours of sleep required and actual number of hours slept.
+
+### Hydration Level
+
+![hydration_level](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture7.PNG?raw=true)
+
+User's daily hydration levels and the hydration goal is stored in this table.
+
+### Calories
+
+![calories](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture8.PNG?raw=true)
+
+The total calories consumed by the user in a day and his/her calorie goal is stored here.
+
+[Sample data in excel.](https://github.com/annie0sc/gdp_group4/blob/master/SampleData.xlsx)
 
 ## Cost Management :
 
 ![Cost_Estimate](https://github.com/annie0sc/gdp_group4/blob/master/Costestimate.PNG?raw=true)
 
-[Cost estimate for the project](https://github.com/annie0sc/gdp_group4/blob/master/CostEstimate.xlsx)
+[Cost estimate for the project in excel.](https://github.com/annie0sc/gdp_group4/blob/master/CostEstimate.xlsx)
 
 ## Schedule :
 
 ![Schedule_Management](https://github.com/annie0sc/gdp_group4/blob/master/Schedule.PNG?raw=true)
 
-[Schedule Management](https://github.com/annie0sc/gdp_group4/blob/master/Schedule%20Management.xlsx)
+[Schedule Management in excel.](https://github.com/annie0sc/gdp_group4/blob/master/Schedule%20Management.xlsx)
 
 ## Acceptance Criteria :
 
