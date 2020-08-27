@@ -62,7 +62,7 @@ This app calculates the number of calories to consume, taking into account a use
 
 User Stories / Tasks created in Jira:
 
-![jira_board](https://github.com/annie0sc/gdp_group4/blob/master/Jira_Sprint1.PNG)
+![jira_board](https://github.com/annie0sc/gdp_group4/blob/master/Jira_Sprint1.PNG?raw=true)
 
 
 [jira board](https://sindhuvaleti.atlassian.net/jira/software/projects/GDP1/boards/2)
@@ -76,19 +76,19 @@ This the ERD of the proposed app.
 
 ## Sample data :
 
-![sample_data](https://github.com/annie0sc/gdp_group4/blob/master/Sample_Data.PNG)
+![sample_data](https://github.com/annie0sc/gdp_group4/blob/master/Sample_Data.PNG?raw=true)
 
 [Sample data in excel](https://github.com/annie0sc/gdp_group4/blob/master/SampleData.xlsx)
 
 ## Cost Management :
 
-![Cost_Estimate](https://github.com/annie0sc/gdp_group4/blob/master/Cost_Estimate.PNG)
+![Cost_Estimate](https://github.com/annie0sc/gdp_group4/blob/master/Cost_Estimate.PNG?raw=true)
 
 [Cost estimate for the project](https://github.com/annie0sc/gdp_group4/blob/master/CostEstimate.xlsx)
 
 ## Schedule :
 
-![Schedule_Management](https://github.com/annie0sc/gdp_group4/blob/master/Schedule_Management.PNG)
+![Schedule_Management](https://github.com/annie0sc/gdp_group4/blob/master/Schedule_Management.PNG?raw=true)
 
 [Schedule Management](https://github.com/annie0sc/gdp_group4/blob/master/Schedule%20Management.xlsx)
 
