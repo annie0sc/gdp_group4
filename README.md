@@ -143,43 +143,43 @@ This is the sample data for user input which stores user name as user_id, email 
 
 ### Admin Information
 
-![admin_info](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture2.PNG?raw=true)
+![admin_info](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/c02.PNG?raw=true)
 
 This is the database for admins which stores their unique admin_id, full name, designation and password.
 
 ### Challenges
 
-![challenges](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture3.PNG?raw=true)
+![challenges](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/c03.PNG?raw=true)
 
 The details of the challenges are stored here. It records the name, activity type, date created, date completed, number of people joining and the winner of the challenge. Additionally, the ID of the person who has created the challenge will be stored with the admin ID who is managing that particular challenge.
 
 ### Home
 
-![home](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture4.PNG?raw=true)
+![home](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/c04.PNG?raw=true)
 
 This is place that displays all the activities offered by the app; step count, sleep levels, hydration levels and calorie intake.
 
 ### Steps
 
-![step](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture5.PNG?raw=true)
+![step](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/c05.PNG?raw=true)
 
 This is where the total step count is stored with it's calculated distance and daily step count goal.
 
 ### Sleep
 
-![sleep](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture6.PNG?raw=true)
+![sleep](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/c06.PNG?raw=true)
 
 The sleep levels are gathered in this place. It keeps track of the user's daily hours of sleep required and actual number of hours slept.
 
 ### Hydration Level
 
-![hydration_level](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture7.PNG?raw=true)
+![hydration_level](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/c07.PNG?raw=true)
 
 User's daily hydration levels and the hydration goal is stored in this table.
 
 ### Calories
 
-![calories](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/Capture8.PNG?raw=true)
+![calories](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/c08.PNG?raw=true)
 
 The total calories consumed by the user in a day and his/her calorie goal is stored here.
 
