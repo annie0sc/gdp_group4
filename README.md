@@ -137,7 +137,7 @@ This the ERD of the proposed app.
 
 ### User data
 
-![user_data](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/1.PNG?raw=true)
+![user_data](https://github.com/annie0sc/gdp_group4/blob/master/Sample%20data/c01.PNG?raw=true)
 
 This is the sample data for user input which stores user name as user_id, email address, full name, age, weight, height and passwords.
 
