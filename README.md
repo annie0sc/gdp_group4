@@ -95,7 +95,7 @@ This the ERD of the proposed app.
 
 ## Schedule :
 
-![Schedule_Management](https://github.com/annie0sc/gdp_group4/blob/master/Schedule_Management.PNG?raw=true)
+![Schedule_Management]()
 
 [Schedule Management](https://github.com/annie0sc/gdp_group4/blob/master/Schedule%20Management.xlsx)
 
