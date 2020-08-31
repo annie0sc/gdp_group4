@@ -19,13 +19,14 @@
 *	I had presented my views and opinions on the project and shared some ideas based on the requirements and design.
 
 # Half Day2:
-*	On the second day we had a Zoom meeting and we divided the work equally with respective of the 
+*	On the day two we had a Zoom meeting and we divided the work equally with respective of the 
 *	On the second day I was working on preparing Sample Data and adding the required data that will be used in the application.
 
 
 
 # Half Day3: 
-* On the third day I made some changes in the Sample data by making a clear review based on the requirements of the client from RFP. I added and made some minor changes in the Sample data created by me.
+* On the day three I made some changes in the Sample data by making a clear review based on the requirements of the client from RFP. I added and made some minor changes in the Sample data created by me.
+
 
 # Commits:
 
