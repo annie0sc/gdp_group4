@@ -67,4 +67,15 @@ https://github.com/annie0sc/gdp_group4/commit/1da724924696af7f40d189f4cfc0730642
 
 - Sent an to Client regarding our proposal document presentation.
 
+![Client Invite](https://github.com/annie0sc/gdp_group4/blob/master/client%20invite.PNG?raw=true)
 
+
+## Meetings
+
+- 08/20/2020 - 30 min zoom call - To share our understandings on RFP and came up with questions we need to ask the next day in the client meeting 
+
+- 08/23/2020 - 30 min meeting in person - To divide the work among team.
+
+- 08/24/2020 - 45 min zoom call - To discuss on the progress and ideas to design interface sketches and proposal document.
+
+- 08/26/2020 - 30 min zoom call - To discuss the review version of proposal.
