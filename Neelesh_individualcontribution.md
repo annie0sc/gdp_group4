@@ -1,3 +1,4 @@
+# Individual Contribution
 | Date  | Meeting Length  |  Discussed About |  Software Used |
 |---|---|---|---|
 |   8/20/2020| 30 minutes  | About RFP  | Zoom   |
