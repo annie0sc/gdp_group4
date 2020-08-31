@@ -46,7 +46,7 @@
 
 <hr>
 
-## Meetings
+### Meetings
 
 | Date       | Meeting Length | Discussed About             | Software Used |
 | ---------- | -------------- | --------------------------- | ------------- |
