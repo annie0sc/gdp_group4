@@ -42,3 +42,9 @@ August 26th, 2020
 ![Cost Management](https://github.com/annie0sc/gdp_group4/blob/master/Costestimate.PNG?raw=true)
 
 ![Schedule_Management](https://github.com/annie0sc/gdp_group4/blob/master/Schedule.PNG?raw=true)
+
+![task1](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/a%20(1).png?raw=true)
+
+![task2](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/a(2).png?raw=true)
+
+![task3](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/a%20(3).png?raw=true)
