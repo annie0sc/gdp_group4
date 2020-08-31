@@ -16,7 +16,7 @@
 
 # Half-Day 1
 
-* We had conducted our first zoom conference call (08/20/2020, 30 minutes) for discussing what type of questions to ask Dr. Bheemer about the RFP the next day. 
+* We had conducted our first zoom conference call (**08/20/2020, 30 minutes**) for discussing what type of questions to ask Dr. Bheemer about the RFP the next day. 
 * I had suggested we ask about gathering the demography of the users in our app for further research.
 * I had then created the group repository and added the others as collaborators.
 
