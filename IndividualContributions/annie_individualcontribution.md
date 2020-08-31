@@ -48,7 +48,8 @@
 * In the last meeting (**08/26/2020, 30 minutes**) we had discussed the comments that our advisor, Dr. Badami had posted for our first proposal submission. 
 * This leads me to add better task descriptions for the tasks in Jira, and I had suggested adding more user and admin data inputs for better feature performance.
 * I had contributed to updating the links to the original RFP, image links to the cost estimation, schedule estimation, and more, in the README file.
-* I had also updated the images of the user input data excel sheet in the README.md file.
+* I had also updated the images of the user input data excel sheet in the README file.
+* Acceptance criteria in the README file was also added by me.
 * I had also published our repository as a website.
 
 **Links to the commits:**
