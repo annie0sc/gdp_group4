@@ -213,43 +213,43 @@ The total calories consumed by the user in a day and his/her calorie goal is sto
 
 ### Login
 
-![Login Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/1%20LOGIN.PNG?raw=true)
+![Login Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/1.%20Login.PNG?raw=true)
 
 This is the first screen that appears when a user or an admin logins.
 
 ### Sign Up
 
-![Sign Up Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/2%20register.PNG?raw=true)
+![Sign Up Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/2.%20Signup.PNG?raw=true)
 
 The user will be redirected to this page when (s)he has not registered yet.
 
 ### Profile
 
-![Profile Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/3%20profile.PNG?raw=true)
+![Profile Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/3.%20Profile.PNG?raw=true)
 
 The user can review and make changes to their profile as desired.
 
 ### Home
 
-![Home Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/4%20Home.PNG?raw=true)
+![Home Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/4.%20Home.PNG?raw=true)
 
 This page allows the user to track their daily step count, hydration level, sleep amount and calorie intake.
 
 ### Step Count
 
-![Step Count Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/5%20Step%20activity.PNG?raw=true)
+![Step Count Page](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/5.%20StepCount.PNG?raw=true)
 
 The user will be redirected to this page when (s)he has selected the step count option in the home page.
 
 ### Calorie Intake
 
-![Calorie Intake](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/6%20Calorie.PNG?raw=true)
+![Calorie Intake](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/6.%20Calories.PNG?raw=true)
 
 This page tracks the daily calorie intake levels of the user.
 
 ### Challenges
 
-![Challenges Pages](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/7%20Challenges.PNG?raw=true)
+![Challenges Pages](https://github.com/annie0sc/gdp_group4/blob/master/Proposed%20Screens/7.%20Challenges.PNG?raw=true)
 
 The admin has rights to create new challenges which can be open to public and/or particular to a group of users.
 
