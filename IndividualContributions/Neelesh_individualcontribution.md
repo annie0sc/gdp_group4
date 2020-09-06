@@ -1,4 +1,4 @@
-# Individual Contribution
+# Module 1: Individual Contribution: 1
 | Date  | Meeting Length  |  Discussed About |  Software Used |
 |---|---|---|---|
 |   8/20/2020| 30 minutes  | About RFP  | Zoom   |
@@ -37,3 +37,40 @@
 
 * [Jira work](https://github.com/annie0sc/gdp_group4/blob/master/Untitled.pngNeel_jira.png)
 * [Sample Data screenshots](https://github.com/annie0sc/gdp_group4/tree/master/Sample%20data)
+
+
+
+# Module 1: Individual Contribution 2
+# Neelesh Saladi Section 01
+---------------------------
+## 1. Attendance (200 Points)
+- I have attended the classes on every alternate day in the week 2.
+
+| Class Dates | Attended | 
+|----------|-------------|
+| 08/31/2020 | In-person |
+| 09/02/2020 | In-person |
+| 09/04/2020 | Online |
+
+## 1. Half day-1(300 Points)
+
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
+- I went to class on 08/31/2020 representing my whole team in order to check the connection to projector with laptop for presentation on 09/03/2020.
+- Our team has discussed everything to be presented to client and I have prepaerd [PPT](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Healthify-NWMSU.pptx) 
+for presentation on 09/03/2020.
+
+## 2. Half day-2(300 Points)
+
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
+- Completed presentation of our project today (9/2/2020) with our client.
+- [Here](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Client%20Thank%20You%20mail) is the thank you mail for the client.
+
+## 3. Half day-3(300 Points)
+
+Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
+- We got comments regarding our presentation from our client and worked on it. 
+- Here are the [commits](https://github.com/sowmyathogiti/Healthify-NWMSU/commits?author=anshithavelagapudi) I have worked on.
+
+
+# Meetings
+Here is the [link](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings) for meetings.
