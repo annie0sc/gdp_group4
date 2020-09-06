@@ -57,18 +57,18 @@
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - I had attended the class on 08/28/2020 representing my whole team for checking the projector connection with the laptop for the presentation on September 2.
 - I helped my team in gathering and organizing the information for the [PPT](https://github.com/annie0sc/gdp_group4/blob/master/GDP_1.pptx). 
+- I worked on my individual contributions of module 1, that we describe and make a report of our work of week 1 [individual Contribution](https://github.com/annie0sc/gdp_group4/edit/master/IndividualContributions/Neelesh_individualcontribution.md)
 
 # Half day2:
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - Completed presentation of our project with the client.
-- [Here](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Client%20Thank%20You%20mail) is the thank you mail for the client.
+- The thank you mail for the client.
+
 
 # Half day3:
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
-- We got comments regarding our presentation from our client and worked on it. 
-- Here are the [commits](https://github.com/sowmyathogiti/Healthify-NWMSU/commits?author=anshithavelagapudi) I have worked on.
+- On the third day we worked on the comments regarding our presentation from our client and worked on it. 
+- Here is the final link of the [Repo](https://github.com/annie0sc/gdp_group4) that we all have worked on.
 
-
-# Meetings
