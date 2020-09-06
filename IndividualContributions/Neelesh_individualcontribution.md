@@ -44,28 +44,27 @@
 # Neelesh Saladi Section 01
 ---------------------------
 ## 1. Attendance (200 Points)
-- I have attended the classes on every alternate day in the week 2.
+- I had attended the classes on every alternate day in the week 2.
 
 | Class Dates | Attended | 
 |----------|-------------|
-| 08/31/2020 | In-person |
+| 08/28/2020 | In-person |
 | 09/02/2020 | In-person |
 | 09/04/2020 | Online |
 
-## 1. Half day-1(300 Points)
+# Half day1: 
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
-- I went to class on 08/31/2020 representing my whole team in order to check the connection to projector with laptop for presentation on 09/03/2020.
-- Our team has discussed everything to be presented to client and I have prepaerd [PPT](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Healthify-NWMSU.pptx) 
-for presentation on 09/03/2020.
+- I had attended the class on 08/28/2020 representing my whole team for checking the projector connection with the laptop for the presentation on September 2.
+- I helped my team in gathering and organizing the information for the [PPT](https://github.com/annie0sc/gdp_group4/blob/master/GDP_1.pptx). 
 
-## 2. Half day-2(300 Points)
+# Half day2:
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
-- Completed presentation of our project today (9/2/2020) with our client.
+- Completed presentation of our project with the client.
 - [Here](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/Client%20Thank%20You%20mail) is the thank you mail for the client.
 
-## 3. Half day-3(300 Points)
+# Half day3:
 
 Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - We got comments regarding our presentation from our client and worked on it. 
@@ -73,4 +72,3 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 
 
 # Meetings
-Here is the [link](https://github.com/sowmyathogiti/Healthify-NWMSU/blob/master/Contributions/meetings) for meetings.
