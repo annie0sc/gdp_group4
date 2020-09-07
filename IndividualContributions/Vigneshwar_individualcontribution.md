@@ -71,3 +71,48 @@ https://github.com/annie0sc/gdp_group4/commit/2f64b97c35a0f12813e3b7656bf6c9740a
 | 08/23/2020 | 30 minutes     | Dividing work among team members             | In Person     |
 | 08/24/2020 | 45 minutes     | Proposal Document        | Zoom          |
 | 08/26/2020 | 30 minutes     | Reviewing Proposal Document | Zoom          |
+
+
+
+## Module 1 - Individual 2
+# Attendance:
+08/31/2020 - Work From Home - Worked on Presentation 
+
+09/02/2020 - Attended Class - Presented proposal document to client 
+
+09/04/2020 - Attended zoom meeting - Q & A session by Dr. Badami
+
+## 08/31/2020 Half Day 1 - 4 hours
+
+- Attended zoom meeting hosted by my project manager and shared my ideas on how we can present our proposal to client.
+
+- I have contributed slides in the presentation by updating google slides.
+
+  https://docs.google.com/presentation/d/1UyfTlU6NncRWTflP5YTVSA0VhP_OS3NgWkFcwm7ynw0/edit?usp=sharing
+
+
+## 09/02/2020 Half Day 1 - 4 hours
+
+- Participated in presenting our proposal to Client and taken notes from presentation.
+
+- After presentation, I have joined a zoom call hosted by one of my team mates to discuss about the changes we need to make as per the feedback given by client.
+
+- I have worked with my project manager to change the UI sketches colors.
+
+  https://github.com/annie0sc/gdp_group4/commit/79d799f4aebd7b22e50ed2114b5a82ca60c70be2
+
+- I have also worked on changing some terminology in the screens which looked discouraging previously.
+
+
+## 09/04/2020 Half Day 1 - 4 hours
+
+- Attended Zoom meeting scheduled by Dr. Badami during class hours.
+
+- I have shared my ideas on PWA implementation screens of our application with my team members.
+
+## Meetings:
+
+|Date       | Meeting Length | Discussion              | Mode |
+| ---------- | -------------- | --------------------------- | ------------- |
+| 08/31/2020 | 30 minutes     | Discussed about presentation                   | Zoom          |
+| 09/02/2020 | 30 minutes     | Disscussed about client feedback             | Zoom     |
