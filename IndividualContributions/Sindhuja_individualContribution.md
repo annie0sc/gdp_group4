@@ -83,6 +83,8 @@ https://github.com/annie0sc/gdp_group4/commit/1da724924696af7f40d189f4cfc0730642
 
 # Module 1 - Individual 2
 
+## Attendance :
+
 08/31/2020 - Worked out of Class - Prepared presentation slides.
 
 09/02/2020 - Attended Class - Presented our proposal to client.
