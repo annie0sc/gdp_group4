@@ -74,7 +74,7 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 
 # Meetings
 
-| Date  | Meeting Length  |  Discussed About |  
+| Date  | Meeting Length  |  Discussed About |  Software Used |
 |---|---|---|---|
-|   08/31/2020| 30 minutes  | About Presentation Ideas  | 
-| 09/02/2020  | 30 minutes  | Discussion on the changes we need to do as per feedback  | 
+|   8/31/2020| 30 minutes  | About Presentation Ideas  | Zoom   |
+| 9/02/2020  | 30 minutes  | Discussed about the changes we need to make as per feedback | Zoom  |
