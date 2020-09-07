@@ -140,8 +140,8 @@
 
 * After the group meeting, we came to a conlusion that I would send the thank-you email to our client. The following is the screenshot of the gratitude email.
 
-![]()
+![](https://github.com/annie0sc/gdp_group4/blob/master/Annie_screenshots/thanking_email.PNG?raw=20)
 
 * We had also attended a zoom meeting with our mentor, Dr. Badami and had discussed about the upcoming tasks about module 2. I had also taken notes about the feedback that our mentor had given.
 
-![]()
+![](https://github.com/annie0sc/gdp_group4/blob/master/Annie_screenshots/zoom_class.PNG?raw=20)
