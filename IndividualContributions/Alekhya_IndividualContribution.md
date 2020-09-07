@@ -1,3 +1,4 @@
+# Individual Contribution 1
 # Attendance
 * On 20th of August, we had a group meeting on zoom. To discuss on what questions to ask the client on next day regarding the app.
 * I have attended the Grad-direct Project in-person class on 21st and 26th of August,2019. As we belong to group 4 and were instructed to do so. 
@@ -48,3 +49,33 @@ August 26th, 2020
 ![task2](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/a(2).png?raw=true)
 
 ![task3](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/a%20(3).png?raw=true)
+
+# Individual Contribution 2
+# Attendance
+| Dates  |Attendance   |
+|---|---|
+|  8/31/2020 |Worked from Home   |
+|  9/2/2020 |  In-Person |
+| 9/4/2020  |  Zoom meeting |
+
+# Half Day 1
+August 31st, 2020
+* I added the powerpoint for the client presentation, with most of the content written.
+https://github.com/annie0sc/gdp_group4/commit/071ee009da1f03199287c1826292a305af57a048
+* Added the photos of  the team members to the powerpoint presentation
+https://github.com/annie0sc/gdp_group4/commit/b05929b0c0646a7b0e034a57e31804c3d275b28f
+* Changed the layout of the presentation.
+https://github.com/annie0sc/gdp_group4/commit/5b83a973ccda807c9937556c6d24e31be812ef68
+
+# Half Day 2
+September 2nd, 2020
+* We had client presentation during which we proposed our ideas to Dr.Beemer and took her feedback. 
+* In which she told us to change the color of UI designs and provide more motivating challenge names. As requested by the client, I made changes.
+https://github.com/annie0sc/gdp_group4/commit/fc8843f790bd1870a164cb2e7c2f14623f0f5ddb
+* After updating the UI designs, some links were broken so I fixed them.
+https://github.com/annie0sc/gdp_group4/commit/edbaae83417e4572c9ca35a5e2e6ab58f9c4d731
+
+# Half Day 3
+September 4th, 2020
+* We had Zoom session that day with Dr.Badami, which was a question and answer session on how the projects were going on.
+
