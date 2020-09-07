@@ -79,3 +79,26 @@ https://github.com/annie0sc/gdp_group4/commit/1da724924696af7f40d189f4cfc0730642
 - 08/24/2020 - 45 min zoom call - To discuss on the progress and ideas to design interface sketches and proposal document.
 
 - 08/26/2020 - 30 min zoom call - To discuss the review version of proposal.
+
+
+# Module 1 - Individual 2
+
+08/31/2020 - Worked out of Class - Prepared presentation slides.
+
+09/02/2020 - Attended Class - Presented our proposal to client.
+
+09/04/2020 - Attended zoom class - Hosted by Dr. Badami.
+
+## Half day work (08/24/2020) - 4 hours
+
+- 
+
+
+
+
+
+## Meetings
+
+- 08/31/2020 - 30 min zoom call with team - Discussed about presentation ideas.
+
+- 09/02/2020 - 30 min zoom call with team - Discussed about the changes we need to make as per the client feedback.
