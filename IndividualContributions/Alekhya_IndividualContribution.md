@@ -58,8 +58,16 @@ August 26th, 2020
 |  9/2/2020 |  In-Person |
 | 9/4/2020  |  Zoom meeting |
 
+# Group Meetings
+| Date  | Meeting Length  |  Discussed About | Software Used  |
+|---|---|---|---|
+| 08/31/2020  |  30 minutes | Presentation ideas |  Zoom |
+| 09/02/2020  |  30 minutes |  Discussed the changes to be made as per feedback |  Zoom |
+
 # Half Day 1
 August 31st, 2020
+* We made the powerpoint presentation collaboratively on google slides.
+https://docs.google.com/presentation/d/1UyfTlU6NncRWTflP5YTVSA0VhP_OS3NgWkFcwm7ynw0/edit#slide=id.p
 * I added the powerpoint for the client presentation, with most of the content written.
 https://github.com/annie0sc/gdp_group4/commit/071ee009da1f03199287c1826292a305af57a048
 * Added the photos of  the team members to the powerpoint presentation
@@ -78,4 +86,8 @@ https://github.com/annie0sc/gdp_group4/commit/edbaae83417e4572c9ca35a5e2e6ab58f9
 # Half Day 3
 September 4th, 2020
 * We had Zoom session that day with Dr.Badami, which was a question and answer session on how the projects were going on.
+* We also started working on the UI designs of web pages and iOS device.
+* We discussed about the implementation of PWA APP (as we have to learn PWA capabilities and learn how it works) and also shared a new set of tasks among the team-mates.
+
+![Zoom meeting](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/Screenshot%20(4).png?raw=true)
 
