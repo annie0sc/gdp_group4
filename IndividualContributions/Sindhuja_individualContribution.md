@@ -89,11 +89,38 @@ https://github.com/annie0sc/gdp_group4/commit/1da724924696af7f40d189f4cfc0730642
 
 09/04/2020 - Attended zoom class - Hosted by Dr. Badami.
 
-## Half day work (08/24/2020) - 4 hours
+## Half day work (08/31/2020) - 4 hours
 
-- 
+- As a Project Manager, I have initiated a zoom meeting among team members to discuss on the points we need to highlight in the client presentation.
+
+- To Collaborate each team member, we have created google slides and all of us started working on presentation.
+
+  https://docs.google.com/presentation/d/1UyfTlU6NncRWTflP5YTVSA0VhP_OS3NgWkFcwm7ynw0/edit?usp=sharing
+
+- Updated Cost estimation spreadsheet in order to present to client.
+
+   https://github.com/annie0sc/gdp_group4/commit/eb123862467a9be79712e9195dda08ba0b372c2b
+
+- Updated changes in the presentation.
+
+   https://github.com/annie0sc/gdp_group4/commit/d7dc59457d87439e1733a4103cbd79d06bcfd879
+
+   https://github.com/annie0sc/gdp_group4/commit/85a7d33ad617afec5ee1bcf3ced5521340789f8f
+
+- Sent an email to Client with our repository, so that she will have an idea of our application before we present it.
+
+    ![](https://github.com/annie0sc/gdp_group4/blob/master/email%20to%20client.PNG?raw=true)
+
+## Half day work (09/02/2020) - 4 hours
 
 
+
+
+
+
+
+
+## Half day work (09/04/2020) - 4 hours
 
 
 
