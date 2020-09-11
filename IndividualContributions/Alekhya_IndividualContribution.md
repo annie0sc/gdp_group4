@@ -91,3 +91,42 @@ September 4th, 2020
 
 ![Zoom meeting](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/Screenshot%20(4).png?raw=true)
 
+# Individual Contribution 3
+# Attendance
+| Dates  |Attendance   |
+|---|---|
+|  9/7/2020 |Paid Holiday|
+|  9/9/2020 |  In-Person |
+| 9/11/2020  |  Zoom meeting |
+
+# Group Meetings
+| Date  | Meeting Length  |  Discussed About | Software Used  |
+|---|---|---|---|
+| 9/9/2020  |  30 minutes | Discussed the common idea |  Zoom |
+| 09/02/2020  |  30 minutes |  Discussed the changes to be made as per feedback |  Zoom |
+
+# Half Day 1
+Sepotember 7th, 2020
+* As it was labour day, we had a paid holiday
+
+# Half Day 2
+September 9th, 2020
+* We had an in-person class, which was the first class of module 2 after re-grouping. Dr.Badami briefed us on how we all were going to work on a common app, collaboratively.
+* As being the part of Stories and sprint planning team, we had the task to create a common jira board and assign tasks to every individual.
+* I have collected the jira id's of UI team.
+https://github.com/annie0sc/gdp_health_app/commit/3962e6d4cb1ad3f1b4326d1ffc47c3fc7573155b
+* To implement this, we had a zoom meeting with all my team members. And I also emailed Dr.Badami regarding the issue.
+
+![Zoom meet](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/Screenshot%20(6).png?raw=true)
+
+![email](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/email%20.png?raw=true)
+
+![sid](https://github.com/annie0sc/gdp_health_app/blob/master/Sprint%20Planning%20and%20UserStories/jira2.png?raw=true)
+
+# Half Day 3
+September 11th, 2020
+* We had Zoom session with Dr.Badami during the class time, in which he clarified doubts about our roles.
+* We also started working on the jira board by creating and assigning tasks to each group.
+
+![Zoom meeting](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/11zoom.png?raw=true)
+
