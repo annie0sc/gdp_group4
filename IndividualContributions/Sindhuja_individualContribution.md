@@ -83,6 +83,8 @@ https://github.com/annie0sc/gdp_group4/commit/1da724924696af7f40d189f4cfc0730642
 
 # Module 1 - Individual 2
 
+## Attendance :
+
 08/31/2020 - Worked out of Class - Prepared presentation slides.
 
 09/02/2020 - Attended Class - Presented our proposal to client.
@@ -111,17 +113,36 @@ https://github.com/annie0sc/gdp_group4/commit/1da724924696af7f40d189f4cfc0730642
 
     ![](https://github.com/annie0sc/gdp_group4/blob/master/email%20to%20client.PNG?raw=true)
 
+
 ## Half day work (09/02/2020) - 4 hours
 
+- Presented our proposal document to Client during class hours.
 
+- Noted the feedback given by Client and discussed among the team to implement changes.
 
+- As suggested by Client, we have changed the colors for our screens to make it look professional, and also updated PPT with modified screens.
 
+  https://github.com/annie0sc/gdp_group4/commit/ecef8c68ed19fc27a25d1d5dd1703b77872597cb
 
+  https://github.com/annie0sc/gdp_group4/commit/79d799f4aebd7b22e50ed2114b5a82ca60c70be2
 
+  https://github.com/annie0sc/gdp_group4/commit/7ee4fc04e2d9da6abfb4ec50f3e28f6c51274cdb
 
+  https://github.com/annie0sc/gdp_group4/commit/6ef27442bd65a9a868162135b5ac052ec53bd125
+
+- We have also changed some terminology usage in our designed screens.
+
+- Worked with one of my team members, to send a Thank You email to client.
 
 ## Half day work (09/04/2020) - 4 hours
 
+- Attended zoom meeting hosted by Dr. Badami, to get an overview of things to be done in the next module.
+
+- As part of question and answer session, I have clarified the doubts and answered questions posted by Dr. Badami during the zoom meeting.
+
+- Discussed about the web appearance of our application and shared ideas with the team members.
+
+- We have started working on the PWA appearance of our application.
 
 
 ## Meetings

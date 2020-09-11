@@ -72,3 +72,9 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 - On the third day we worked on the comments regarding our presentation from our client and worked on it. 
 - Here is the final link of the [Repo](https://github.com/annie0sc/gdp_group4) that we all have worked on.
 
+# Meetings
+
+| Date  | Meeting Length  |  Discussed About |  Software Used |
+|---|---|---|---|
+|   8/31/2020| 30 minutes  | About Presentation Ideas  | Zoom   |
+| 9/02/2020  | 30 minutes  | Discussed about the changes we need to make as per feedback | Zoom  |
