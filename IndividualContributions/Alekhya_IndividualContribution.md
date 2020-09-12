@@ -91,7 +91,7 @@ September 4th, 2020
 
 ![Zoom meeting](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/Screenshot%20(4).png?raw=true)
 
-# Individual Contribution 3
+# Module 2: Individual Contribution 1
 # Attendance
 | Dates  |Attendance   |
 |---|---|
@@ -103,11 +103,11 @@ September 4th, 2020
 | Date  | Meeting Length  |  Discussed About | Software Used  |
 |---|---|---|---|
 | 9/9/2020  |  30 minutes | Discussed the common idea |  Zoom |
-| 09/02/2020  |  30 minutes |  Discussed the changes to be made as per feedback |  Zoom |
 
 # Half Day 1
 Sepotember 7th, 2020
-* As it was labour day, we had a paid holiday
+* As it was labour day, we had a paid holiday.
+* During module 1 as I was mostly involved in User stories and cost management, I decided to join the Stories and Sprint planning group.
 
 # Half Day 2
 September 9th, 2020
@@ -126,7 +126,8 @@ https://github.com/annie0sc/gdp_health_app/commit/3962e6d4cb1ad3f1b4326d1ffc47c3
 # Half Day 3
 September 11th, 2020
 * We had Zoom session with Dr.Badami during the class time, in which he clarified doubts about our roles.
-* We also started working on the jira board by creating and assigning tasks to each group.
+* I started working on the jira board by creating and assigning tasks to the design data group.
 
 ![Zoom meeting](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/11zoom.png?raw=true)
 
+![board](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/task.png?raw=true)
