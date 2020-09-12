@@ -78,3 +78,10 @@ Time alotted : 4hrs = 1hr in class + 3hrs out of the class.
 |---|---|---|---|
 |   8/31/2020| 30 minutes  | About Presentation Ideas  | Zoom   |
 | 9/02/2020  | 30 minutes  | Discussed about the changes we need to make as per feedback | Zoom  |
+
+
+| Date  | Meeting Length  |  Discussed About |  Software Used |
+|---|---|---|---|
+|   9/11/2020| 30 minutes  | About Software requirements | Zoom   |
+| 9/11/2020  | 30 minutes  | Divison of work  | Zoom  |
+| 9/11/2020  | 45 minutes  | meeting with scrum master  | zoom  |
