@@ -11,6 +11,7 @@
 | Date  | Meeting Length  |  Discussed About | Software Used  |
 |---|---|---|---|
 | 9/9/2020  |  30 minutes | Discussed the common idea |  Zoom |
+| 9/11/2020  |  30 minutes | Discussed about the tasks assigned by each team member and also planning for assigning future tasks |  Zoom |
 
 # Half Day 1
 Sepotember 7th, 2020
@@ -35,4 +36,4 @@ September 11th, 2020
 
 
 
-![board](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/task.png?raw=true)
+![board](https://github.com/annie0sc/gdp_group4/blob/master/GDP_1/Screenshot%20(194).png?raw=true)
