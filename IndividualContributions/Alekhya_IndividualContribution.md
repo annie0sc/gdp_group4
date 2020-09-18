@@ -128,6 +128,38 @@ September 11th, 2020
 * We had Zoom session with Dr.Badami during the class time, in which he clarified doubts about our roles.
 * I started working on the jira board by creating and assigning tasks to the design data group.
 
-![Zoom meeting](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/11zoom.png?raw=true)
-
 ![board](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/task.png?raw=true)
+
+# Module 2: Individual Contribution 2
+# Attendance
+| Dates  |Attendance   |
+|---|---|
+|  9/14/2020 |Work from home|
+|  9/16/2020 |  In-Person |
+| 9/18/2020  |  Zoom meeting |
+
+# Group Meetings
+| Date  | Meeting Length  |  Discussed About | Software Used  |
+|---|---|---|---|
+| 9/14/2020  |  30 minutes | Discussed about tasks assigning and work update with design data team |  Zoom |
+| 9/16/2020  |  30 minutes | Discussed about  |  Zoom |
+
+
+# Half Day 1
+September 14th, 2020
+* I worked from home on monday. I am handling the creating and assigning tasks to the Design data group.
+* We have also hosted a zoom meeting with design data group in order to know the work update and assigning of tasks to every individual in the group.
+* I have assigned the tasks which include creating the ER diagram and providing constraints for sample data to all attributes present in User, Group and Challenge entities.
+
+# Half Day 2
+September 16th, 2020
+* We had an in-person class on wednesday. Dr.Badami looked over our work and provided few pointers to make changes in the jira board. Like creating the user story in the format of "As a [user or admin] I would like to [use a feature], so that [reason of the feature].
+* I have also assigned the tasks of creating use case diagram for all the entities and connection of existing excel data to mySQL.
+
+
+# Half Day 3
+September 18th, 2020
+* We had a zoom meeting with Dr.Badami during the class time.
+* We have assigned the tasks of validating and testing the sample data with firebase.
+* I have also assigned the tasks of providing ideal water in-take level and hours of sleep level to the users.
+* we requested them to update their current working situation so that we don't miss any tasks and also discussed with them about next sprint tasks.
