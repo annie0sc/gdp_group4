@@ -142,7 +142,7 @@ September 11th, 2020
 | Date  | Meeting Length  |  Discussed About | Software Used  |
 |---|---|---|---|
 | 9/14/2020  |  30 minutes | Discussed about tasks assigning and work update with design data team |  Zoom |
-| 9/16/2020  |  30 minutes | Discussed about  |  Zoom |
+| 9/16/2020  |  30 minutes | Discussed about sample data and dependencies  |  Zoom |
 
 
 # Half Day 1
@@ -151,10 +151,16 @@ September 14th, 2020
 * We have also hosted a zoom meeting with design data group in order to know the work update and assigning of tasks to every individual in the group.
 * I have assigned the tasks which include creating the ER diagram and providing constraints for sample data to all attributes present in User, Group and Challenge entities.
 
+![14](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/14.png?raw=true)
+
 # Half Day 2
 September 16th, 2020
-* We had an in-person class on wednesday. Dr.Badami looked over our work and provided few pointers to make changes in the jira board. Like creating the user story in the format of "As a [user or admin] I would like to [use a feature], so that [reason of the feature].
+* We had an in-person class on wednesday. Dr.Badami looked over our work and provided few pointers to make changes in the jira board. Like creating the user story in the format of "As a [user or admin] I would like to [use a feature], so that [reason of the feature]".
 * I have also assigned the tasks of creating use case diagram for all the entities and connection of existing excel data to mySQL.
+http://cs04.nwmissouri.edu/browse/FIT-59?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-65?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-66?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-67?filter=-2
 
 
 # Half Day 3
@@ -162,4 +168,12 @@ September 18th, 2020
 * We had a zoom meeting with Dr.Badami during the class time.
 * We have assigned the tasks of validating and testing the sample data with firebase.
 * I have also assigned the tasks of providing ideal water in-take level and hours of sleep level to the users.
-* we requested them to update their current working situation so that we don't miss any tasks and also discussed with them about next sprint tasks.
+* We requested them to update their current working situation so that we don't miss any tasks and also discussed with them about next sprint tasks.
+* As suggested by Dr.Badami we will be creating sprints 2,3 and GDP 2.
+http://cs04.nwmissouri.edu/browse/FIT-76?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-77?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-79?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-80?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-72?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-83?filter=-2
+
