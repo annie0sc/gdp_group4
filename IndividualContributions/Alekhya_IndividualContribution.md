@@ -183,9 +183,9 @@ http://cs04.nwmissouri.edu/browse/FIT-83?filter=-2
 # Attendance
 | Dates  |Attendance   |
 |---|---|
-|  9/21/2020 |Work from home|
-|  9/23/2020 |  Zoom meeting |
-| 9/25/2020  |  Zoom meeting |
+| 9/21/2020 | Work from home|
+| 9/23/2020 | Zoom meeting |
+| 9/25/2020 | Zoom meeting |
 
 
 # Half Day 1
@@ -193,10 +193,19 @@ September 21st, 2020
 * I worked from home on monday. As Dr.Badami conducted in-person class only for group leaders.
 *  As I'm handling the Design data team, I changed all the user stories in the format of "As a [user or admin] I would like to [use a feature], so that [reason of the feature]".
 
+http://cs04.nwmissouri.edu/browse/FIT-22?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-29?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-33?filter=-2
+
 # Half Day 2
 September 23rd, 2020
 * We had a zoom meeting with Dr.Badami during the class time on wednesday.
 * We created and assigned tasks for sprint 2, 3 and GDP 2.
+http://cs04.nwmissouri.edu/browse/FIT-171?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-172?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-175?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-177?filter=-2
+
 
 
 # Half Day 3
@@ -207,3 +216,8 @@ September 25th, 2020
 * We have mentioned everyone to finish their tasks in sprint 0.
 
 ![mail](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/25mail.png?raw=true)
+
+http://cs04.nwmissouri.edu/browse/FIT-80?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-81?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-82?filter=-2
+http://cs04.nwmissouri.edu/browse/FIT-83?filter=-2
