@@ -221,3 +221,81 @@ http://cs04.nwmissouri.edu/browse/FIT-80?filter=-2
 http://cs04.nwmissouri.edu/browse/FIT-81?filter=-2
 http://cs04.nwmissouri.edu/browse/FIT-82?filter=-2
 http://cs04.nwmissouri.edu/browse/FIT-83?filter=-2
+
+# Module 3: Individual Contribution 2
+# Attendance
+| Dates  |Attendance   |
+|---|---|
+| 9/28/2020 | Zoom meeting|
+| 9/30/2020 | Zoom meeting |
+| 10/02/2020 | Zoom meeting |
+
+# Group Meetings
+| Date  | Meeting Length  |  Discussed About | Software Used  |
+|---|---|---|---|
+| 9/30/2020  |  30 minutes | Discussed about the corrections in ER diagram and Usecase diagrams |  Zoom |
+| 10/01/2020  |  30 minutes | Discussed about progress of development with group leaders  |  Zoom |
+
+# Half Day 1
+September 28th, 2020
+* We had a zoom meeting with Dr.Badami on monday during the class time.
+* I have created and assigned tasks for new sttributes and entities in the updated ER diagram. I have also assigned tasks on updation of usecase diagrams.
+
+http://cs04.nwmissouri.edu/browse/FIT-190
+http://cs04.nwmissouri.edu/browse/FIT-193
+http://cs04.nwmissouri.edu/browse/FIT-195
+http://cs04.nwmissouri.edu/browse/FIT-198
+http://cs04.nwmissouri.edu/browse/FIT-200
+http://cs04.nwmissouri.edu/browse/FIT-202
+http://cs04.nwmissouri.edu/browse/FIT-207
+http://cs04.nwmissouri.edu/browse/FIT-211
+http://cs04.nwmissouri.edu/browse/FIT-212
+http://cs04.nwmissouri.edu/browse/FIT-213
+http://cs04.nwmissouri.edu/browse/FIT-214
+http://cs04.nwmissouri.edu/browse/FIT-215
+http://cs04.nwmissouri.edu/browse/FIT-216
+http://cs04.nwmissouri.edu/browse/FIT-219
+http://cs04.nwmissouri.edu/browse/FIT-221
+http://cs04.nwmissouri.edu/browse/FIT-222
+
+# Half Day 2
+September 30th, 2020
+* We again had a zoom meeting with Dr.Badami on wednesday during the class time.
+* I have updated all the previous tasks with Acceptance criteria.
+* I have also conducted a zoom meeting with the Design Data team and discussed about the updation of ER diagram and their dependencies in reference to the UI team's layouts of the app.
+
+![email](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/30zoom.png?raw=true)
+
+![zoom](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/9-30.png?raw=true)
+
+http://cs04.nwmissouri.edu/browse/FIT-22
+http://cs04.nwmissouri.edu/browse/FIT-27
+http://cs04.nwmissouri.edu/browse/FIT-29
+http://cs04.nwmissouri.edu/browse/FIT-33
+http://cs04.nwmissouri.edu/browse/FIT-37
+http://cs04.nwmissouri.edu/browse/FIT-40
+http://cs04.nwmissouri.edu/browse/FIT-43
+http://cs04.nwmissouri.edu/browse/FIT-45
+http://cs04.nwmissouri.edu/browse/FIT-59
+http://cs04.nwmissouri.edu/browse/FIT-62
+http://cs04.nwmissouri.edu/browse/FIT-76
+http://cs04.nwmissouri.edu/browse/FIT-171
+http://cs04.nwmissouri.edu/browse/FIT-172
+http://cs04.nwmissouri.edu/browse/FIT-175
+http://cs04.nwmissouri.edu/browse/FIT-177
+
+
+# Half Day 3
+Ovtober 2nd, 2020
+* We had a zoom meeting with Dr.Badami during the class time on friday as well.
+* As the client presentation got postponed, I filtered out the current jira tasks of design data team with sync to the app development in a excel sheet for the client.
+* I have also created and assigned tasks on writing SQL queries and generate sample data for the updated entities.
+
+http://cs04.nwmissouri.edu/browse/FIT-237
+http://cs04.nwmissouri.edu/browse/FIT-238
+http://cs04.nwmissouri.edu/browse/FIT-239
+http://cs04.nwmissouri.edu/browse/FIT-240
+http://cs04.nwmissouri.edu/browse/FIT-243
+
+
+
