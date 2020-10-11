@@ -297,5 +297,34 @@ http://cs04.nwmissouri.edu/browse/FIT-239
 http://cs04.nwmissouri.edu/browse/FIT-240
 http://cs04.nwmissouri.edu/browse/FIT-243
 
+# Module 4: Individual Contribution 1
+# Attendance
+| Dates  |Attendance   |
+|---|---|
+| 10/5/2020 | Zoom meeting|
+| 10/7/2020 | Zoom meeting |
+| 10/9/2020 | No class |
+
+# Half Day 1
+October 5th, 2020
+* We had a zoom meeting with Dr.Badami on monday during the class time.
+* During which he asked the sprint team to create an excel sheet with sprints based on the UI design and provide a checklist option.
+![](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/5(10).png?raw=true)
+
+* Here's the link to the google sheets.
+
+https://docs.google.com/spreadsheets/d/1Ztjragt3ltlkSMRf9_hS7lgt1h1qGwB_IZ2Po-Sja9I/edit#gid=0
+
+# Half Day 2
+October 7th, 2020
+* We again had a zoom meeting with Dr.Badami on wednesday during class time.
+* We had a demo for the client presentation with the professor.
+* In which he asked us to filter more tasks in the google sheets as they were redundant. So we finished that and provided the client with final version.
+![](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/7(10).png?raw=true)
+
+# Half Day 3
+October 9th, 2020
+* We did not have class that day as it was walk out day.
+
 
 
