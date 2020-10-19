@@ -330,5 +330,44 @@ October 7th, 2020
 October 9th, 2020
 * We did not have class that day as it was walk out day.
 
+# Module 4: Individual Contribution 2
+# Attendance
+| Dates  |Attendance   |
+|---|---|
+| 10/12/2020 | Zoom meeting|
+| 10/14/2020 | Zoom meeting |
+| 10/16/2020 | Zoom meeting |
 
+# Half Day 1
+October 12th, 2020
+* We had a zoom meeting with Dr.Badami on monday during the class time.
+* In which he asked the Stories and sprint team to start working on sprint 2 and push the tasks which are yet to be done in sprint 1 to backlog.
+* I started working on it.
 
+http://cs04.nwmissouri.edu/browse/FIT-202?jql=project%20%3D%20FIT%20AND%20Sprint%20%3D%206%20AND%20reporter%20in%20(currentUser())%20ORDER%20BY%20priority%20DESC%2C%20updated%20DESC
+
+# Half Day 2
+October 14th, 2020
+* We again had a zoom meeting with Dr.Badami on wednesday as well.
+* In which we provided the professor with updates about sprint 2.
+* I also removed unnecessary tasks which are not in sync with RFP from sprint 1.
+
+http://cs04.nwmissouri.edu/browse/FIT-265
+
+http://cs04.nwmissouri.edu/browse/FIT-264
+
+http://cs04.nwmissouri.edu/browse/FIT-82
+
+# Half Day 3
+October 16th, 2020
+* As Dr.Badami was away, we had a zoom meeting with our GA Prasad.
+* One member from each group gave him updates on our current working status.
+* As design data team was working in collaboration with the design architecture team, to clarify on few points We had a zoom meeting with sprint team who are dealing with design architecture team.
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/16(10).png?raw=true)
+
+* We also started working on creating and assigning tasks in sprint 3.
+
+http://cs04.nwmissouri.edu/browse/FIT-274
+
+http://cs04.nwmissouri.edu/browse/FIT-275
