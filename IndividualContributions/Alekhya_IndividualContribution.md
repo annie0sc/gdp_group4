@@ -371,3 +371,35 @@ October 16th, 2020
 http://cs04.nwmissouri.edu/browse/FIT-274
 
 http://cs04.nwmissouri.edu/browse/FIT-275
+
+# Module 5: Individual Contribution 1
+# Attendance
+| Dates  |Attendance   |
+|---|---|
+| 10/19/2020 | Zoom meeting|
+| 10/21/2020 | Zoom meeting |
+| 10/23/2020 | Zoom meeting |
+
+# Half Day 1
+October 19th, 2020
+* We had a zoom meeting with Dr.Badami on monday during the class time.
+* In which he went through the lastest moqups from the UI team.
+* As I'm handling the user stories of Design data team, I have assigned tasks on creating the sample data for the new entities and attributes.
+
+http://cs04.nwmissouri.edu/browse/FIT-292
+
+http://cs04.nwmissouri.edu/browse/FIT-293
+
+# Half Day 2
+October 21st, 2020
+* We again had a zoom meeting with Dr.Badami on wednesday during the class.
+* In which he asked us to prepare a demo video and check list for the second client presentation.
+* Being a part of the sprint team, I was working on the check list. Here's the link to the spreadsheet.
+
+https://docs.google.com/spreadsheets/d/1Ztjragt3ltlkSMRf9_hS7lgt1h1qGwB_IZ2Po-Sja9I/edit#gid=0
+
+# Half Day 3
+October 23rd, 2020
+* We again had a zoom meeting with Dr.Badami on friday during the class time.
+* During which, he went through the newly released moqups and checked the sample data.
+* 
