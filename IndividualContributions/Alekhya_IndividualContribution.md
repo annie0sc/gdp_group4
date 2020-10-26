@@ -402,4 +402,10 @@ https://docs.google.com/spreadsheets/d/1Ztjragt3ltlkSMRf9_hS7lgt1h1qGwB_IZ2Po-Sj
 October 23rd, 2020
 * We again had a zoom meeting with Dr.Badami on friday during the class time.
 * During which, he went through the newly released moqups and checked the sample data.
-* 
+* I have created and assigned tasks to update the MVC Models based on the newly released UI screens and testing of the sample data.
+
+http://cs04.nwmissouri.edu/browse/FIT-312
+
+http://cs04.nwmissouri.edu/browse/FIT-313
+
+http://cs04.nwmissouri.edu/browse/FIT-314
