@@ -409,3 +409,46 @@ http://cs04.nwmissouri.edu/browse/FIT-312
 http://cs04.nwmissouri.edu/browse/FIT-313
 
 http://cs04.nwmissouri.edu/browse/FIT-314
+
+# Module 5: Individual Contribution 2
+# Attendance
+| Dates  |Attendance   |
+|---|---|
+| 10/26/2020 | Zoom meeting|
+| 10/28/2020 | Zoom meeting |
+| 10/30/2020 | Zoom meeting |
+
+# Half Day 1
+October 26th, 2020
+* On monday, we had a zoom meeting with Dr.Badami during the class time.
+* He asked us to start preparing checklist and demo video for the upcoming client presentation.
+* I have created and assigned few bugs which had to be updated in sync with ths current pages.
+
+http://cs04.nwmissouri.edu/browse/FIT-305
+
+http://cs04.nwmissouri.edu/browse/FIT-306
+
+# Half Day 2
+October 28th, 2020
+* We again had a zoom meeting with Dr.Badami on wednesday during the class.
+* He suggested to remove admin column from user page data, as admin cannot be  both user and admin. So, I have created a task to remove the data.
+* Dr.Badami asked us to prepare a demo video and check list for the client presentation.
+* Being a part of the sprint team, I worked on the check list. Here's the link to the spreadsheet.
+https://docs.google.com/spreadsheets/d/1Ztjragt3ltlkSMRf9_hS7lgt1h1qGwB_IZ2Po-Sja9I/edit#gid=0
+
+
+# Half Day 3
+October 30th, 2020
+* We again had a zoom meeting with Dr.Badami on friday during the class time.
+* During which, he went through the client presentation video and newly deployed pages.
+* I have created and assigned tasks to update MVC models for the newly deployed pages.
+
+http://cs04.nwmissouri.edu/browse/FIT-363
+
+http://cs04.nwmissouri.edu/browse/FIT-364
+
+http://cs04.nwmissouri.edu/browse/FIT-365
+
+http://cs04.nwmissouri.edu/browse/FIT-366
+
+
