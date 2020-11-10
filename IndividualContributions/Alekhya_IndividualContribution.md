@@ -451,4 +451,75 @@ http://cs04.nwmissouri.edu/browse/FIT-365
 
 http://cs04.nwmissouri.edu/browse/FIT-366
 
+# Module 6: Individual Contribution 1
+# Attendance
+| Dates  |Attendance   |
+|---|---|
+| 11/02/2020 | Zoom meeting|
+| 11/04/2020 | Zoom meeting |
+| 11/06/2020 | Zoom meeting |
+
+# Half Day 1
+November 2nd, 2020
+* On monday, we had a zoom meeting with Dr.Badami during the class time.
+* During which he discussed about the client feedback and making few changes.
+* I have created and assigned tasks to connect step count page to the database.
+http://cs04.nwmissouri.edu/browse/FIT-365 (Links to an external site.)
+
+http://cs04.nwmissouri.edu/browse/FIT-366 (Links to an external site.)
+
+
+# Half Day 2
+
+November 4th, 2020
+
+We again had a zoom meeting with Dr.Badami on Wednesday during which he asked us to make database connections.
+I have created and 
+# Half Day 3
+November 6th, 2020
+* We again had a zoom meeting with Dr.Badami on friday during the class time.
+* Dr.Badami asked us to prepare a demo video and check list for the client presentation.
+* Being a part of the sprint team, I worked on the check list. Here's the link to the spreadsheet.
+https://docs.google.com/spreadsheets/d/1Ztjragt3ltlkSMRf9_hS7lgt1h1qGwB_IZ2Po-Sja9I/edit#gid=0
+
+Module 6: Individual Contribution 1
+Attendance
+Dates	Attendance
+11/02/2020	Zoom meeting
+11/04/2020	Zoom meeting
+11/06/2020	Zoom meeting
+Half Day 1
+November 2nd, 2020
+On Monday, we had a zoom meeting with Dr.Badami during class time.
+During which he discussed the client feedback and making few changes to the existing pages.
+I have created and assigned tasks to make the specified changes to the UI pages as well as the sample data.
+http://cs04.nwmissouri.edu/browse/FIT-363 (Links to an external site.)
+
+http://cs04.nwmissouri.edu/browse/FIT-364 (Links to an external site.)
+
+http://cs04.nwmissouri.edu/browse/FIT-365 (Links to an external site.)
+
+http://cs04.nwmissouri.edu/browse/FIT-366
+
+Half Day 2
+November 4th, 2020
+
+We again had a zoom meeting with Dr.Badami on Wednesday during which he asked us to make database connections.
+I have created and assigned tasks to connect newly updated UI pages which are Step count, Sleep count, Water intake and Meditation time to the database.
+http://cs04.nwmissouri.edu/browse/FIT-378 (Links to an external site.)
+
+http://cs04.nwmissouri.edu/browse/FIT-379 (Links to an external site.)
+
+http://cs04.nwmissouri.edu/browse/FIT-380 (Links to an external site.)
+
+http://cs04.nwmissouri.edu/browse/FIT-381 (Links to an external site.)
+
+Half Day 3
+November 6th, 2020
+
+We again had a zoom meeting with Dr.Badami on Friday during class time.
+Dr.Badami asked us to prepare a demo video and a checklist for the client presentation.
+Being a part of the sprint team, I worked on the checklist. Here's the link to the spreadsheet.
+https://docs.google.com/spreadsheets/d/1Ztjragt3ltlkSMRf9_hS7lgt1h1qGwB_IZ2Po-Sja9I/edit#gid=0
+
 
