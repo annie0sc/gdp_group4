@@ -482,17 +482,18 @@ November 6th, 2020
 * Being a part of the sprint team, I worked on the check list. Here's the link to the spreadsheet.
 https://docs.google.com/spreadsheets/d/1Ztjragt3ltlkSMRf9_hS7lgt1h1qGwB_IZ2Po-Sja9I/edit#gid=0
 
-Module 6: Individual Contribution 1
-Attendance
+# Module 6: Individual Contribution 1
+# Attendance
 Dates	Attendance
 11/02/2020	Zoom meeting
 11/04/2020	Zoom meeting
 11/06/2020	Zoom meeting
-Half Day 1
+
+# Half Day 1
 November 2nd, 2020
-On Monday, we had a zoom meeting with Dr.Badami during class time.
-During which he discussed the client feedback and making few changes to the existing pages.
-I have created and assigned tasks to make the specified changes to the UI pages as well as the sample data.
+* On Monday, we had a zoom meeting with Dr.Badami during class time.
+* During which he discussed the client feedback and making few changes to the existing pages.
+* I have created and assigned tasks to make the specified changes to the UI pages as well as the sample data.
 http://cs04.nwmissouri.edu/browse/FIT-363 (Links to an external site.)
 
 http://cs04.nwmissouri.edu/browse/FIT-364 (Links to an external site.)
@@ -501,11 +502,11 @@ http://cs04.nwmissouri.edu/browse/FIT-365 (Links to an external site.)
 
 http://cs04.nwmissouri.edu/browse/FIT-366
 
-Half Day 2
+# Half Day 2
 November 4th, 2020
 
-We again had a zoom meeting with Dr.Badami on Wednesday during which he asked us to make database connections.
-I have created and assigned tasks to connect newly updated UI pages which are Step count, Sleep count, Water intake and Meditation time to the database.
+* We again had a zoom meeting with Dr.Badami on Wednesday during which he asked us to make database connections.
+* I have created and assigned tasks to connect newly updated UI pages which are Step count, Sleep count, Water intake and Meditation time to the database.
 http://cs04.nwmissouri.edu/browse/FIT-378 (Links to an external site.)
 
 http://cs04.nwmissouri.edu/browse/FIT-379 (Links to an external site.)
@@ -514,64 +515,46 @@ http://cs04.nwmissouri.edu/browse/FIT-380 (Links to an external site.)
 
 http://cs04.nwmissouri.edu/browse/FIT-381 (Links to an external site.)
 
-Half Day 3
+# Half Day 3
 November 6th, 2020
 
-We again had a zoom meeting with Dr.Badami on Friday during class time.
+* We again had a zoom meeting with Dr.Badami on Friday during class time.
 Dr.Badami asked us to prepare a demo video and a checklist for the client presentation.
-Being a part of the sprint team, I worked on the checklist. Here's the link to the spreadsheet.
+* Being a part of the sprint team, I worked on the checklist. Here's the link to the spreadsheet.
 https://docs.google.com/spreadsheets/d/1Ztjragt3ltlkSMRf9_hS7lgt1h1qGwB_IZ2Po-Sja9I/edit#gid=0
 
-Module 6: Individual Contribution 2
-Attendance
+# Module 6: Individual Contribution 2
+At# tendance
 Dates	Attendance
 11/09/2020	Zoom meeting
 11/11/2020	Zoom meeting
 11/13/2020	Zoom meeting
  
-
-Half Day 1
+# Half Day 1
 November 9th, 2020
-On Monday, we had a zoom meeting with Dr.Badami during class time.
+
+* On Monday, we had a zoom meeting with Dr.Badami during class time.
 During which he discussed the client feedback and making few changes to the existing pages and Ihave created and assigned tasks accordingly.
-Also he requested all the team leaders to join client meeting to talk about the user and admin dashboards.
+* Also he requested all the team leaders to join client meeting to talk about the user and admin dashboards.
 http://cs04.nwmissouri.edu/browse/FIT-381 (Links to an external site.)
 
 http://cs04.nwmissouri.edu/browse/FIT-380 (Links to an external site.)
 
-<<<<<<< HEAD
-Module 6: Individual Contribution 2
-Attendance
-Dates	Attendance
-11/09/2020	Zoom meeting
-11/11/2020	Zoom meeting
-11/14/2020	Zoom meeting
-
-Half Day 1
-November 9th, 2020
-On Monday, we had a zoom meeting with Dr.Badami during class time.
-During which he discussed the client feedback and making few changes to the existing pages and Ihave created and assigned tasks accordingly.
-Also he requested all the team leaders to join client meeting to talk about the user and admin dashboards.
-
-Half Day 2
+# Half Day 2
 November 11th, 2020
 
-We again had a zoom meeting with Dr.Badami on Wednesday during which he provided us with a spreadsheet containing few requirements.
-New groups were formed to work on specific tasks. I was assigned to work on Fruits and Vegetables consumption pages.
-
-Half Day 3
+* We again had a zoom meeting with Dr.Badami on Wednesday during which he provided us with a spreadsheet containing few requirements.
+* New groups were formed to work on specific tasks. I was assigned to work on Fruits and Vegetables consumption pages.
+https://github.com/harishThadka/happyHealth/commit/ddf9c40c3745c84ecc4d5c7c76c42af624550185 (Links to an external site.) (Links to an external site.)
+https://github.com/harishThadka/happyHealth/commit/4ccf7275db403ec20e141da80b8aeb9fd0c501c6 (Links to an external site.)
+https://github.com/harishThadka/happyHealth/commit/53fb5f7e00a158b59089f4358884f419e28ed445 (Links to an external site.)
+ 
+# Half Day 3
 November 13th, 2020
 
-We again had a zoom meeting with Dr.Badami on Friday during class time. 
+* We again had a zoom meeting with Dr.Badami on Friday during class time. 
 During which we gave a demo to Dr.Badami on the new tasks we worked on.
-We also added Fruits and Vegetables links to the userHome page along with the icons and provided routing to the fruits and vegetables links.
-
-=======
-http://cs04.nwmissouri.edu/browse/FIT-379 (Links to an external site.)
-
-Half Day 2
-November 11th, 2020
-We again had a zoom meeting with Dr.Badami on Wednesday during which he provided us with a spreadsheet containing few requirements.
-New groups were formed to work on specific tasks. I was assigned to work on Fruits and Vegetables consumption pages.
-https://github.com/harishThadka/happyHealth/commit/ddf9c40c3745c84ecc4d5c7c76c42af624550185 (Links to an external site.) (Links to an external s
->>>>>>> 2f9e5c7f765b71f13fc7526063056f153bcc0886
+* We also added Fruits and Vegetables links to the userHome page along with the icons and provided routing to the fruits and vegetables links.
+https://github.com/harishThadka/happyHealth/commit/6c221309aa0adc1a21059e32f6da7f4ea7b1bcf9 (Links to an external site.) (Links to an external site.)
+https://github.com/harishThadka/happyHealth/commit/1507104441638df1e9300de25aba3c503049bc6a (Links to an external site.)
+https://github.com/harishThadka/happyHealth/commit/15a9b7ff616dccf42cd0a190b1437abe5633bc40
