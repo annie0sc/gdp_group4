@@ -558,3 +558,48 @@ During which we gave a demo to Dr.Badami on the new tasks we worked on.
 https://github.com/harishThadka/happyHealth/commit/6c221309aa0adc1a21059e32f6da7f4ea7b1bcf9 (Links to an external site.) (Links to an external site.)
 https://github.com/harishThadka/happyHealth/commit/1507104441638df1e9300de25aba3c503049bc6a (Links to an external site.)
 https://github.com/harishThadka/happyHealth/commit/15a9b7ff616dccf42cd0a190b1437abe5633bc40
+
+# Module 7: Individual Contribution 1
+# Attendance
+| Dates  |Attendance   |
+|---|---|
+| 11/16/2020 | Zoom meeting |
+| 11/18/2020 | Zoom meeting |
+| 11/20/2020 | Zoom meeting |
+
+# Half Day 1
+November 16th, 2020
+* On monday, we had a zoom meeting with Dr.Badami during the class time.
+* He asked us to prepare a demo video and check list for the client presentation.
+* I worked on preparing the checklist based on all the updates we have made from both admin and user side. Here's the link to the spreadsheet.
+
+https://docs.google.com/spreadsheets/d/1Ztjragt3ltlkSMRf9_hS7lgt1h1qGwB_IZ2Po-Sja9I/edit#gid=0
+
+![](https://github.com/annie0sc/gdp_group4/blob/master/Alekhya_jira/11(16).png?raw=true)
+
+# Half Day 2
+November 18th, 2020
+* We again had a zoom meeting with Dr.Badami on wednesday during the class.
+* For this week we worked on redesigning the html pages for User Challenges.We split the contents into 4 different pages - Completed Challenges,MyScores, Invitations, Challenge Management.
+* For the completed Challenges page, I have created a table to view Active challenges which contain the name of challenge and its description and also the start and end date . There's also an action button to delete the challenge.
+
+*  https://github.com/annie0sc/gdp-happy-health/commit/e1b8d8212f643603848762880680c52a03e157be
+
+* https://github.com/annie0sc/gdp-happy-health/commit/d96bb10f7ca8b9f03898177c46148142061da628
+
+* https://github.com/harishThadka/happyHealth/commit/19010e69ba2aea76897d652aba9e93f1293bf61b
+
+* https://github.com/harishThadka/happyHealth/commit/234ecd95b12eb7517568f2b1a8a0972e7ae5ec14
+
+# Half Day 3
+October 30th, 2020
+* We again had a zoom meeting with Dr.Badami on friday during the class.
+* For the Active Challenges page, I have created a table to view the chalenges which contain the name of challenge and its description and also the start and end date. There's also an action button to delete the challenge. There's an Invitation button which is a popup for adding an invitation with a detailed description.
+
+* https://github.com/annie0sc/gdp-happy-health/commit/51b817f330fda8cfad90cd3d30916e6e532beb0e
+
+* https://github.com/annie0sc/gdp-happy-health/commit/93be149c60df5026216a0c6bd514f1ba4568ef94
+
+* https://github.com/harishThadka/happyHealth/commit/478cab4f2670871afb8074300d4eb8d87206a066
+
+* https://github.com/harishThadka/happyHealth/commit/b52610905c8e6154e6e570b748ad12d864668958
