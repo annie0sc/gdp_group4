@@ -522,7 +522,24 @@ Dr.Badami asked us to prepare a demo video and a checklist for the client presen
 Being a part of the sprint team, I worked on the checklist. Here's the link to the spreadsheet.
 https://docs.google.com/spreadsheets/d/1Ztjragt3ltlkSMRf9_hS7lgt1h1qGwB_IZ2Po-Sja9I/edit#gid=0
 
+Module 6: Individual Contribution 2
+Attendance
+Dates	Attendance
+11/09/2020	Zoom meeting
+11/11/2020	Zoom meeting
+11/13/2020	Zoom meeting
+ 
 
+Half Day 1
+November 9th, 2020
+On Monday, we had a zoom meeting with Dr.Badami during class time.
+During which he discussed the client feedback and making few changes to the existing pages and Ihave created and assigned tasks accordingly.
+Also he requested all the team leaders to join client meeting to talk about the user and admin dashboards.
+http://cs04.nwmissouri.edu/browse/FIT-381 (Links to an external site.)
+
+http://cs04.nwmissouri.edu/browse/FIT-380 (Links to an external site.)
+
+<<<<<<< HEAD
 Module 6: Individual Contribution 2
 Attendance
 Dates	Attendance
@@ -549,3 +566,12 @@ We again had a zoom meeting with Dr.Badami on Friday during class time.
 During which we gave a demo to Dr.Badami on the new tasks we worked on.
 We also added Fruits and Vegetables links to the userHome page along with the icons and provided routing to the fruits and vegetables links.
 
+=======
+http://cs04.nwmissouri.edu/browse/FIT-379 (Links to an external site.)
+
+Half Day 2
+November 11th, 2020
+We again had a zoom meeting with Dr.Badami on Wednesday during which he provided us with a spreadsheet containing few requirements.
+New groups were formed to work on specific tasks. I was assigned to work on Fruits and Vegetables consumption pages.
+https://github.com/harishThadka/happyHealth/commit/ddf9c40c3745c84ecc4d5c7c76c42af624550185 (Links to an external site.) (Links to an external s
+>>>>>>> 2f9e5c7f765b71f13fc7526063056f153bcc0886
